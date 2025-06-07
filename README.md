@@ -1,4 +1,3 @@
-# price-nest
 # Real Estate Price Prediction - Data Science Project
 
 ## Project Overview
